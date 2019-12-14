@@ -1,1 +1,2 @@
 # Encoder-and-Decoder-model
+This repository contain the code of the Advance Machine Learning course on Courseera offered by National Research University Higher School of Economics.The main purpose of the repository is that other learner onthe course can see the some of the programing part in which tgey are facing problems to pass.I will suggest first try to solve by yourself until you badly got stuck on some part of the  assignment problems  
